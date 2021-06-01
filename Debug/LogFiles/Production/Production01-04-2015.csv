@@ -1,0 +1,539 @@
+Order Name,Action,  Machine State  ,Insert Counter,Time
+W0804_CC,Time Frame,Stop,12672,00:00
+W0804_CC,Time Frame,Stop,12672,00:10
+W0804_CC,Time Frame,Stop,12672,00:20
+W0804_CC,Time Frame,Stop,12672,00:30
+W0804_CC,Time Frame,Stop,12672,00:40
+W0804_CC,Time Frame,Stop,12672,00:50
+W0804_CC,Time Frame,Stop,12672,01:00
+W0804_CC,Time Frame,Stop,12672,01:10
+W0804_CC,Time Frame,Stop,12672,01:20
+W0804_CC,Time Frame,Stop,12672,01:30
+W0804_CC,Time Frame,Stop,12672,01:40
+W0804_CC,Time Frame,Stop,12672,01:50
+W0804_CC,Time Frame,Stop,12672,02:00
+W0804_CC,Time Frame,Stop,12672,02:10
+W0804_CC,Time Frame,Stop,12672,02:20
+W0804_CC,Time Frame,Stop,12672,02:30
+W0804_CC,Time Frame,Stop,12672,02:40
+W0804_CC,Time Frame,Stop,12672,02:50
+W0804_CC,Time Frame,Stop,12672,03:00
+W0804_CC,Time Frame,Stop,12672,03:10
+W0804_CC,Time Frame,Stop,12672,03:20
+W0804_CC,Time Frame,Stop,12672,03:30
+W0804_CC,Time Frame,Stop,12672,03:40
+W0804_CC,Time Frame,Stop,12672,03:50
+W0804_CC,Time Frame,Stop,12672,04:00
+W0804_CC,Time Frame,Stop,12672,04:10
+W0804_CC,Time Frame,Stop,12672,04:20
+W0804_CC,Time Frame,Stop,12672,04:30
+W0804_CC,Time Frame,Stop,12672,04:40
+W0804_CC,Time Frame,Stop,12672,04:50
+W0804_CC,Time Frame,Stop,12672,05:00
+W0804_CC,Time Frame,Stop,12672,05:10
+W0804_CC,Time Frame,Stop,12672,05:20
+W0804_CC,Time Frame,Stop,12672,05:30
+W0804_CC,Time Frame,Stop,12672,05:40
+W0804_CC,Time Frame,Stop,12672,05:50
+W0804_CC,Time Frame,Stop,12672,06:00
+W0804_CC,Time Frame,Stop,12672,06:10
+W0804_CC,Time Frame,Stop,12672,06:20
+W0804_CC,Time Frame,Stop,12672,06:30
+W0804_CC,Time Frame,Stop,12672,06:40
+W0804_CC,Time Frame,Stop,12672,06:50
+W0804_CC,Time Frame,Stop,12672,07:00
+W0804_CC,Time Frame,Stop,12672,07:10
+W0804_CC,Time Frame,Stop,12672,07:20
+W0804_CC,Time Frame,Stop,12672,07:30
+W0804_CC,Time Frame,Stop,12672,07:40
+W0804_CC,Time Frame,Stop,12672,07:50
+W0804_CC,Time Frame,Stop,12672,08:00
+W0804_CC,Time Frame,Stop,12672,08:10
+W0804_CC,Time Frame,Stop,12672,08:20
+W0804_CC,Time Frame,Stop,12672,08:30
+W0804_CC,Time Frame,Stop,12672,08:40
+W0804_CC,Time Frame,Stop,12672,08:50
+W0804_CC,Time Frame,Stop,12672,09:00
+W0804_CC,Time Frame,Stop,12672,09:10
+W0804_CC,Time Frame,Stop,12672,09:20
+W0804_CC,Time Frame,Stop,12672,09:30
+W0804_CC,Time Frame,Stop,12672,09:40
+T1604_CC,Operation pressed ResetAll,Stop,12672,09:49
+T1604_CC,Operation pressed General Resume,Stop,12672,09:49
+T1604_CC,Operation pressed Resume Robots,Stop,12672,09:49
+T1604_CC,Operation pressed Resume Index Table,Stop,12672,09:49
+T1604_CC,Operation pressed Resume Unload Conveyor,Stop,12672,09:49
+T1604_CC,Operation pressed Resume Load Conveyor,Stop,12672,09:49
+T1604_CC,Operation pressed Resume Camera,Stop,12672,09:49
+T1604_CC,Operation pressed Resume Load Conveyor,Stop,12672,09:49
+T1604_CC,Operation pressed Resume Index Table,Stop,12672,09:49
+T1604_CC,Operation pressed Resume Unload Conveyor,Stop,12672,09:49
+T1604_CC,Operation pressed Start,SetupSucces,12672,09:49
+T1604_CC,Operation pressed General Resume,Running,12672,09:49
+T1604_CC,Operation pressed Resume Robots,Running,12672,09:49
+T1604_CC,Operation pressed Resume Index Table,Running,12672,09:49
+T1604_CC,Operation pressed Resume Unload Conveyor,Running,12672,09:49
+T1604_CC,Operation pressed Resume Load Conveyor,Running,12672,09:49
+T1604_CC,Operation pressed Resume Robots,Running,12672,09:49
+T1604_CC,Operation pressed Resume Camera,Running,12672,09:49
+T1604_CC,Time Frame,Running,12672,09:50
+T1604_CC,Time Frame,Running,12902,10:00
+T1604_CC,Time Frame,Running,13132,10:10
+T1604_CC,Operation pressed Pause,Running,13356,10:19
+T1604_CC,Operation pressed Start,Pause,13356,10:19
+T1604_CC,Operation pressed General Resume,Running,13356,10:19
+T1604_CC,Operation pressed Resume Robots,Running,13356,10:19
+T1604_CC,Operation pressed Resume Index Table,Running,13356,10:19
+T1604_CC,Operation pressed Resume Unload Conveyor,Running,13356,10:19
+T1604_CC,Operation pressed Resume Load Conveyor,Running,13356,10:19
+T1604_CC,Operation pressed Resume Camera,Running,13356,10:19
+T1604_CC,Operation pressed Resume Robots,Running,13356,10:19
+T1604_CC,Time Frame,Running,13372,10:20
+T1604_CC,Operation pressed Pause,Running,13418,10:28
+T1604_CC,Operation pressed STOP,Pause,13418,10:28
+C1204_CC,Time Frame,Stop,12672,10:30
+T1604_CC,Operation pressed Start,SetupSucces,0,10:31
+T1604_CC,Operation pressed General Resume,Running,0,10:31
+T1604_CC,Operation pressed Resume Robots,Running,0,10:31
+T1604_CC,Operation pressed Resume Index Table,Running,0,10:31
+T1604_CC,Operation pressed Resume Unload Conveyor,Running,0,10:31
+T1604_CC,Operation pressed Resume Load Conveyor,Running,0,10:31
+T1604_CC,Operation pressed Resume Robots,Running,0,10:31
+T1604_CC,Operation pressed Resume Camera,Running,0,10:31
+T1604_CC,Time Frame,Running,94,10:40
+T1604_CC,Time Frame,Running,94,10:50
+T1604_CC,Time Frame,Running,94,11:00
+T1604_CC,Operation pressed Pause,Running,94,11:01
+T1604_CC,Operation pressed STOP,Pause,94,11:01
+T1604_CC,Time Frame,Stop,94,11:10
+W0804_CC,Time Frame,Stop,0,11:20
+W0804_CC,Operation pressed ResetAll,Stop,0,11:24
+W0804_CC,Operation pressed General Resume,Stop,0,11:24
+W0804_CC,Operation pressed Resume Robots,Stop,0,11:24
+W0804_CC,Operation pressed Resume Index Table,Stop,0,11:24
+W0804_CC,Operation pressed Resume Unload Conveyor,Stop,0,11:24
+W0804_CC,Operation pressed Resume Load Conveyor,Stop,0,11:24
+W0804_CC,Operation pressed Resume Camera,Stop,0,11:24
+W0804_CC,Operation pressed Resume Load Conveyor,Stop,0,11:24
+W0804_CC,Operation pressed Resume Index Table,Stop,0,11:24
+W0804_CC,Operation pressed Resume Unload Conveyor,Stop,0,11:24
+W0804_CC,Operation pressed Start,SetupSucces,0,11:25
+W0804_CC,Operation pressed General Resume,Running,0,11:25
+W0804_CC,Operation pressed Resume Robots,Running,0,11:25
+W0804_CC,Operation pressed Resume Index Table,Running,0,11:25
+W0804_CC,Operation pressed Resume Unload Conveyor,Running,0,11:25
+W0804_CC,Operation pressed Resume Load Conveyor,Running,0,11:25
+W0804_CC,Operation pressed Resume Robots,Running,0,11:25
+W0804_CC,Operation pressed Resume Camera,Running,0,11:25
+W0804_CC,Time Frame,Running,112,11:30
+W0804_CC,Operation pressed Pause,Running,233,11:34
+W0804_CC,Operation pressed Start,Pause,233,11:34
+W0804_CC,Operation pressed General Resume,Running,233,11:34
+W0804_CC,Operation pressed Resume Robots,Running,233,11:34
+W0804_CC,Operation pressed Resume Index Table,Running,233,11:34
+W0804_CC,Operation pressed Resume Unload Conveyor,Running,233,11:34
+W0804_CC,Operation pressed Resume Load Conveyor,Running,233,11:34
+W0804_CC,Operation pressed Resume Camera,Running,233,11:34
+W0804_CC,Operation pressed Resume Robots,Running,233,11:34
+W0804_CC,Time Frame,Running,371,11:40
+W0804_CC,Operation pressed Pause,Running,488,11:44
+W0804_CC,Operation pressed Start,Pause,488,11:44
+W0804_CC,Operation pressed General Resume,Running,488,11:44
+W0804_CC,Operation pressed Resume Robots,Running,488,11:44
+W0804_CC,Operation pressed Resume Index Table,Running,488,11:44
+W0804_CC,Operation pressed Resume Unload Conveyor,Running,488,11:44
+W0804_CC,Operation pressed Resume Load Conveyor,Running,488,11:44
+W0804_CC,Operation pressed Resume Camera,Running,488,11:44
+W0804_CC,Operation pressed Resume Robots,Running,488,11:44
+W0804_CC,Time Frame,Running,611,11:50
+W0804_CC,Time Frame,Running,833,12:00
+W0804_CC,Operation pressed Pause,Running,840,12:00
+W0804_CC,Operation pressed Start,Pause,840,12:00
+W0804_CC,Operation pressed General Resume,Running,840,12:00
+W0804_CC,Operation pressed Resume Robots,Running,840,12:00
+W0804_CC,Operation pressed Resume Index Table,Running,840,12:00
+W0804_CC,Operation pressed Resume Unload Conveyor,Running,840,12:00
+W0804_CC,Operation pressed Resume Load Conveyor,Running,840,12:00
+W0804_CC,Operation pressed Resume Robots,Running,840,12:00
+W0804_CC,Operation pressed Resume Camera,Running,840,12:00
+W0804_CC,Operation pressed Pause,Running,840,12:00
+W0804_CC,Operation pressed Start,Pause,840,12:00
+W0804_CC,Operation pressed General Resume,Running,840,12:00
+W0804_CC,Operation pressed Resume Robots,Running,840,12:00
+W0804_CC,Operation pressed Resume Index Table,Running,840,12:00
+W0804_CC,Operation pressed Resume Unload Conveyor,Running,840,12:00
+W0804_CC,Operation pressed Resume Load Conveyor,Running,840,12:00
+W0804_CC,Operation pressed Resume Robots,Running,840,12:00
+W0804_CC,Operation pressed Resume Camera,Running,840,12:00
+W0804_CC,Operation pressed Pause,Running,840,12:00
+W0804_CC,Operation pressed Start,Pause,840,12:00
+W0804_CC,Operation pressed General Resume,Running,840,12:00
+W0804_CC,Operation pressed Resume Robots,Running,840,12:00
+W0804_CC,Operation pressed Resume Index Table,Running,840,12:00
+W0804_CC,Operation pressed Resume Unload Conveyor,Running,840,12:00
+W0804_CC,Operation pressed Resume Load Conveyor,Running,840,12:00
+W0804_CC,Operation pressed Resume Camera,Running,840,12:00
+W0804_CC,Operation pressed Resume Robots,Running,840,12:00
+W0804_CC,Time Frame,Running,840,12:10
+W0804_CC,Time Frame,Running,840,12:20
+W0804_CC,Time Frame,Running,840,12:30
+W0804_CC,Time Frame,Running,840,12:40
+W0804_CC,Time Frame,Running,840,12:50
+W0804_CC,Time Frame,Running,840,13:00
+W0804_CC,Operation pressed Pause,Running,840,13:05
+W0804_CC,Operation pressed STOP,Pause,840,13:05
+W0804_CC,Time Frame,Stop,840,13:10
+W0804_CC,Time Frame,Stop,840,13:20
+W0804_CC,Time Frame,Stop,840,13:30
+W0804_CC,Operation pressed ResetAll,Stop,840,13:35
+W0804_CC,Operation pressed General Resume,Stop,840,13:35
+W0804_CC,Operation pressed Resume Robots,Stop,840,13:35
+W0804_CC,Operation pressed Resume Index Table,Stop,840,13:35
+W0804_CC,Operation pressed Resume Unload Conveyor,Stop,840,13:35
+W0804_CC,Operation pressed Resume Load Conveyor,Stop,840,13:35
+W0804_CC,Operation pressed Resume Camera,Stop,840,13:35
+W0804_CC,Operation pressed Resume Load Conveyor,Stop,840,13:35
+W0804_CC,Operation pressed Resume Index Table,Stop,840,13:35
+W0804_CC,Operation pressed Resume Unload Conveyor,Stop,840,13:35
+W0804_CC,Time Frame,Stop,840,13:40
+W0804_CC,Time Frame,Stop,840,13:50
+W0804_CC,Time Frame,Stop,840,14:00
+W0804_CC,Time Frame,Stop,840,14:10
+W0804_CC,Time Frame,Stop,840,14:20
+W0804_CC,Time Frame,Stop,840,14:30
+W0804_CC,Time Frame,Stop,840,14:40
+W0804_CC,Operation pressed ResetAll,Stop,840,14:40
+W0804_CC,Operation pressed General Resume,Stop,840,14:40
+W0804_CC,Operation pressed Resume Robots,Stop,840,14:40
+W0804_CC,Operation pressed Resume Index Table,Stop,840,14:40
+W0804_CC,Operation pressed Resume Unload Conveyor,Stop,840,14:40
+W0804_CC,Operation pressed Resume Load Conveyor,Stop,840,14:40
+W0804_CC,Operation pressed Resume Camera,Stop,840,14:40
+W0804_CC,Operation pressed Resume Load Conveyor,Stop,840,14:40
+W0804_CC,Operation pressed Resume Index Table,Stop,840,14:40
+W0804_CC,Operation pressed Resume Unload Conveyor,Stop,840,14:40
+W0804_CC,Time Frame,Stop,840,14:50
+W0804_CC,Time Frame,Stop,840,15:00
+W0804_CC,Operation pressed ResetAll,Stop,0,15:05
+W0804_CC,Operation pressed General Resume,Stop,0,15:05
+W0804_CC,Operation pressed Resume Robots,Stop,0,15:05
+W0804_CC,Operation pressed Resume Unload Conveyor,Stop,0,15:05
+W0804_CC,Operation pressed Resume Load Conveyor,Stop,0,15:05
+W0804_CC,Operation pressed Resume Camera,Stop,0,15:05
+W0804_CC,Operation pressed Resume Load Conveyor,Stop,0,15:05
+W0804_CC,Operation pressed Resume Index Table,Stop,0,15:05
+W0804_CC,Operation pressed Resume Unload Conveyor,Stop,0,15:05
+W0804_CC,Time Frame,Stop,0,15:10
+W0804_CC,Operation pressed ResetAll,Stop,0,15:10
+W0804_CC,Operation pressed General Resume,Stop,0,15:10
+W0804_CC,Operation pressed Resume Index Table,Stop,0,15:10
+W0804_CC,Operation pressed Resume Robots,Stop,0,15:10
+W0804_CC,Operation pressed Resume Unload Conveyor,Stop,0,15:10
+W0804_CC,Operation pressed Resume Load Conveyor,Stop,0,15:10
+W0804_CC,Operation pressed Resume Camera,Stop,0,15:10
+W0804_CC,Operation pressed Resume Load Conveyor,Stop,0,15:10
+W0804_CC,Operation pressed Resume Index Table,Stop,0,15:10
+W0804_CC,Operation pressed Resume Unload Conveyor,Stop,0,15:10
+C1204_CC,Operation pressed Start,SetupSucces,0,15:11
+C1204_CC,Operation pressed General Resume,Running,0,15:11
+C1204_CC,Operation pressed Resume Robots,Running,0,15:11
+C1204_CC,Operation pressed Resume Index Table,Running,0,15:11
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,0,15:11
+C1204_CC,Operation pressed Resume Load Conveyor,Running,0,15:11
+C1204_CC,Operation pressed Resume Camera,Running,0,15:11
+C1204_CC,Operation pressed Resume Robots,Running,0,15:11
+C1204_CC,Time Frame,Running,204,15:20
+C1204_CC,Operation pressed Pause,Running,315,15:24
+C1204_CC,Operation pressed Start,Pause,315,15:24
+C1204_CC,Operation pressed General Resume,Running,315,15:24
+C1204_CC,Operation pressed Resume Robots,Running,315,15:24
+C1204_CC,Operation pressed Resume Index Table,Running,315,15:24
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,315,15:24
+C1204_CC,Operation pressed Resume Load Conveyor,Running,315,15:24
+C1204_CC,Operation pressed Resume Robots,Running,315,15:24
+C1204_CC,Operation pressed Resume Camera,Running,315,15:24
+C1204_CC,Operation pressed Pause,Running,350,15:26
+C1204_CC,Operation pressed STOP,Pause,350,15:26
+C1204_CC,Operation pressed Start,SetupSucces,350,15:27
+C1204_CC,Operation pressed General Resume,Running,350,15:27
+C1204_CC,Operation pressed Resume Robots,Running,350,15:27
+C1204_CC,Operation pressed Resume Index Table,Running,350,15:27
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,350,15:27
+C1204_CC,Operation pressed Resume Load Conveyor,Running,350,15:27
+C1204_CC,Operation pressed Resume Camera,Running,350,15:27
+C1204_CC,Operation pressed Resume Robots,Running,350,15:27
+C1204_CC,Time Frame,Running,420,15:30
+C1204_CC,Time Frame,Running,665,15:40
+C1204_CC,Time Frame,Running,907,15:50
+C1204_CC,Time Frame,Running,1147,16:00
+C1204_CC,Time Frame,Running,1389,16:10
+C1204_CC,Time Frame,Running,1633,16:20
+C1204_CC,Operation pressed Pause,Running,1752,16:24
+C1204_CC,Operation pressed Start,Pause,1752,16:26
+C1204_CC,Operation pressed General Resume,Running,1752,16:26
+C1204_CC,Operation pressed Resume Robots,Running,1752,16:26
+C1204_CC,Operation pressed Resume Index Table,Running,1752,16:26
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,1752,16:26
+C1204_CC,Operation pressed Resume Load Conveyor,Running,1752,16:26
+C1204_CC,Operation pressed Resume Camera,Running,1752,16:26
+C1204_CC,Time Frame,Running,1854,16:30
+C1204_CC,Operation pressed Pause,Running,1956,16:34
+C1204_CC,Operation pressed STOP,Pause,1956,16:34
+C1204_CC,Operation pressed ResetAll,Stop,1956,16:34
+C1204_CC,Operation pressed General Resume,Stop,1956,16:34
+C1204_CC,Operation pressed Resume Robots,Stop,1956,16:34
+C1204_CC,Operation pressed Resume Index Table,Stop,1956,16:34
+C1204_CC,Operation pressed Resume Unload Conveyor,Stop,1956,16:34
+C1204_CC,Operation pressed Resume Load Conveyor,Stop,1956,16:34
+C1204_CC,Operation pressed Resume Camera,Stop,1956,16:34
+C1204_CC,Operation pressed Resume Load Conveyor,Stop,1956,16:34
+C1204_CC,Operation pressed Resume Index Table,Stop,1956,16:34
+C1204_CC,Operation pressed Resume Unload Conveyor,Stop,1956,16:34
+C1204_CC,Operation pressed Start,SetupSucces,1956,16:34
+C1204_CC,Operation pressed General Resume,Running,1956,16:34
+C1204_CC,Operation pressed Resume Robots,Running,1956,16:34
+C1204_CC,Operation pressed Resume Index Table,Running,1956,16:34
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,1956,16:34
+C1204_CC,Operation pressed Resume Load Conveyor,Running,1956,16:34
+C1204_CC,Operation pressed Resume Robots,Running,1956,16:34
+C1204_CC,Operation pressed Resume Camera,Running,1956,16:34
+C1204_CC,Operation pressed Pause,Running,2010,16:37
+C1204_CC,Operation pressed Start,Pause,2011,16:38
+C1204_CC,Operation pressed General Resume,Running,2011,16:38
+C1204_CC,Operation pressed Resume Robots,Running,2011,16:38
+C1204_CC,Operation pressed Resume Index Table,Running,2011,16:38
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,2011,16:38
+C1204_CC,Operation pressed Resume Load Conveyor,Running,2011,16:38
+C1204_CC,Operation pressed Resume Camera,Running,2011,16:38
+C1204_CC,Time Frame,Running,2037,16:40
+C1204_CC,Operation pressed Pause,Running,2196,16:46
+C1204_CC,Operation pressed Start,Pause,2196,16:47
+C1204_CC,Operation pressed General Resume,Running,2196,16:47
+C1204_CC,Operation pressed Resume Robots,Running,2196,16:47
+C1204_CC,Operation pressed Resume Index Table,Running,2196,16:47
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,2196,16:47
+C1204_CC,Operation pressed Resume Load Conveyor,Running,2196,16:47
+C1204_CC,Operation pressed Resume Camera,Running,2196,16:47
+C1204_CC,Time Frame,Running,2255,16:50
+C1204_CC,Operation pressed Pause,Running,2295,16:52
+C1204_CC,Operation pressed STOP,Pause,2295,16:52
+C1204_CC,Operation pressed ResetAll,Stop,2295,16:53
+C1204_CC,Operation pressed General Resume,Stop,2295,16:53
+C1204_CC,Operation pressed Resume Index Table,Stop,2295,16:53
+C1204_CC,Operation pressed Resume Robots,Stop,2295,16:53
+C1204_CC,Operation pressed Resume Unload Conveyor,Stop,2295,16:53
+C1204_CC,Operation pressed Resume Load Conveyor,Stop,2295,16:53
+C1204_CC,Operation pressed Resume Camera,Stop,2295,16:53
+C1204_CC,Operation pressed Resume Load Conveyor,Stop,2295,16:53
+C1204_CC,Operation pressed Resume Index Table,Stop,2295,16:53
+C1204_CC,Operation pressed Resume Unload Conveyor,Stop,2295,16:53
+C1204_CC,Operation pressed ResetAll,Stop,2295,16:54
+C1204_CC,Operation pressed General Resume,Stop,2295,16:54
+C1204_CC,Operation pressed Resume Robots,Stop,2295,16:54
+C1204_CC,Operation pressed Resume Index Table,Stop,2295,16:54
+C1204_CC,Operation pressed Resume Unload Conveyor,Stop,2295,16:54
+C1204_CC,Operation pressed Resume Load Conveyor,Stop,2295,16:54
+C1204_CC,Operation pressed Resume Camera,Stop,2295,16:54
+C1204_CC,Operation pressed Resume Load Conveyor,Stop,2295,16:54
+C1204_CC,Operation pressed Resume Index Table,Stop,2295,16:54
+C1204_CC,Operation pressed Resume Unload Conveyor,Stop,2295,16:54
+C1204_CC,Operation pressed Start,SetupSucces,2295,16:55
+C1204_CC,Operation pressed General Resume,Running,2295,16:55
+C1204_CC,Operation pressed Resume Robots,Running,2295,16:55
+C1204_CC,Operation pressed Resume Index Table,Running,2295,16:55
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,2295,16:55
+C1204_CC,Operation pressed Resume Load Conveyor,Running,2295,16:55
+C1204_CC,Operation pressed Resume Robots,Running,2295,16:55
+C1204_CC,Operation pressed Resume Camera,Running,2295,16:55
+C1204_CC,Operation pressed Pause,Running,2302,16:58
+C1204_CC,Operation pressed Start,Pause,2302,16:58
+C1204_CC,Operation pressed General Resume,Running,2302,16:58
+C1204_CC,Operation pressed Resume Robots,Running,2302,16:58
+C1204_CC,Operation pressed Resume Index Table,Running,2302,16:58
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,2302,16:58
+C1204_CC,Operation pressed Resume Load Conveyor,Running,2302,16:58
+C1204_CC,Operation pressed Resume Camera,Running,2302,16:58
+C1204_CC,Operation pressed Resume Robots,Running,2303,16:58
+C1204_CC,Operation pressed Pause,Running,2323,16:59
+C1204_CC,Operation pressed STOP,Pause,2323,16:59
+C1204_CC,Time Frame,Stop,2323,17:00
+C1204_CC,Operation pressed ResetAll,Stop,2323,17:01
+C1204_CC,Operation pressed General Resume,Stop,2323,17:01
+C1204_CC,Operation pressed Resume Robots,Stop,2323,17:01
+C1204_CC,Operation pressed Resume Index Table,Stop,2323,17:01
+C1204_CC,Operation pressed Resume Unload Conveyor,Stop,2323,17:01
+C1204_CC,Operation pressed Resume Load Conveyor,Stop,2323,17:01
+C1204_CC,Operation pressed Resume Camera,Stop,2323,17:01
+C1204_CC,Operation pressed Resume Load Conveyor,Stop,2323,17:01
+C1204_CC,Operation pressed Resume Index Table,Stop,2323,17:01
+C1204_CC,Operation pressed Resume Unload Conveyor,Stop,2323,17:01
+C1204_CC,Operation pressed Start,SetupSucces,2323,17:02
+C1204_CC,Operation pressed General Resume,Running,2323,17:02
+C1204_CC,Operation pressed Resume Robots,Running,2323,17:02
+C1204_CC,Operation pressed Resume Index Table,Running,2323,17:02
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,2323,17:02
+C1204_CC,Operation pressed Resume Load Conveyor,Running,2323,17:02
+C1204_CC,Operation pressed Resume Robots,Running,2323,17:02
+C1204_CC,Operation pressed Resume Camera,Running,2323,17:02
+C1204_CC,Time Frame,Running,2419,17:10
+C1204_CC,Operation pressed Pause,Running,2419,17:14
+C1204_CC,Operation pressed STOP,Pause,2419,17:14
+C1204_CC,Operation pressed ResetAll,Stop,2419,17:14
+C1204_CC,Operation pressed General Resume,Stop,2419,17:14
+C1204_CC,Operation pressed Resume Robots,Stop,2419,17:14
+C1204_CC,Operation pressed Resume Index Table,Stop,2419,17:14
+C1204_CC,Operation pressed Resume Unload Conveyor,Stop,2419,17:14
+C1204_CC,Operation pressed Resume Load Conveyor,Stop,2419,17:14
+C1204_CC,Operation pressed Resume Camera,Stop,2419,17:14
+C1204_CC,Operation pressed Resume Robots,Stop,2419,17:14
+C1204_CC,Operation pressed Resume Load Conveyor,Stop,2419,17:14
+C1204_CC,Operation pressed Resume Index Table,Stop,2419,17:14
+C1204_CC,Operation pressed Resume Unload Conveyor,Stop,2419,17:14
+C1204_CC,Operation pressed Resume Robots,Stop,2419,17:14
+C1204_CC,Operation pressed Start,SetupSucces,2419,17:14
+C1204_CC,Operation pressed General Resume,Running,2419,17:14
+C1204_CC,Operation pressed Resume Robots,Running,2419,17:14
+C1204_CC,Operation pressed Resume Index Table,Running,2419,17:14
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,2419,17:14
+C1204_CC,Operation pressed Resume Load Conveyor,Running,2419,17:14
+C1204_CC,Operation pressed Resume Robots,Running,2419,17:14
+C1204_CC,Operation pressed Resume Camera,Running,2419,17:14
+C1204_CC,Time Frame,Running,2493,17:20
+C1204_CC,Operation pressed Pause,Running,2566,17:24
+C1204_CC,Operation pressed Start,Pause,2566,17:24
+C1204_CC,Operation pressed General Resume,Running,2566,17:24
+C1204_CC,Operation pressed Resume Robots,Running,2566,17:24
+C1204_CC,Operation pressed Resume Index Table,Running,2566,17:24
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,2566,17:24
+C1204_CC,Operation pressed Resume Load Conveyor,Running,2566,17:24
+C1204_CC,Operation pressed Resume Robots,Running,2566,17:24
+C1204_CC,Operation pressed Resume Camera,Running,2566,17:24
+C1204_CC,Time Frame,Running,2701,17:30
+C1204_CC,Time Frame,Running,2961,17:40
+C1204_CC,Time Frame,Running,3204,17:50
+C1204_CC,Operation pressed Pause,Running,3399,17:58
+C1204_CC,Operation pressed Start,Pause,3399,17:59
+C1204_CC,Operation pressed General Resume,Running,3399,17:59
+C1204_CC,Operation pressed Resume Robots,Running,3399,17:59
+C1204_CC,Operation pressed Resume Index Table,Running,3399,17:59
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,3399,17:59
+C1204_CC,Operation pressed Resume Load Conveyor,Running,3399,17:59
+C1204_CC,Operation pressed Resume Camera,Running,3399,17:59
+C1204_CC,Time Frame,Running,3415,18:00
+C1204_CC,Time Frame,Running,3676,18:10
+C1204_CC,Time Frame,Running,3919,18:20
+C1204_CC,Time Frame,Running,4158,18:30
+C1204_CC,Time Frame,Running,4396,18:40
+C1204_CC,Time Frame,Running,4633,18:50
+C1204_CC,Time Frame,Running,4875,19:00
+C1204_CC,Time Frame,Running,5098,19:10
+C1204_CC,Time Frame,Running,5324,19:20
+C1204_CC,Time Frame,Running,5569,19:30
+C1204_CC,Time Frame,Running,5814,19:40
+C1204_CC,Time Frame,Running,6051,19:50
+C1204_CC,Time Frame,Running,6291,20:00
+C1204_CC,Operation pressed Pause,Running,6409,20:05
+C1204_CC,Operation pressed Start,Pause,6409,20:05
+C1204_CC,Operation pressed General Resume,Running,6409,20:05
+C1204_CC,Operation pressed Resume Robots,Running,6409,20:05
+C1204_CC,Operation pressed Resume Index Table,Running,6409,20:05
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,6409,20:05
+C1204_CC,Operation pressed Resume Load Conveyor,Running,6409,20:05
+C1204_CC,Operation pressed Resume Camera,Running,6409,20:05
+C1204_CC,Operation pressed Resume Robots,Running,6409,20:05
+C1204_CC,Time Frame,Running,6504,20:10
+C1204_CC,Time Frame,Running,6747,20:20
+C1204_CC,Time Frame,Running,6759,20:30
+C1204_CC,Time Frame,Running,6759,20:40
+C1204_CC,Time Frame,Running,6759,20:50
+C1204_CC,Operation pressed Pause,Running,6759,20:54
+C1204_CC,Operation pressed Start,Pause,6759,20:55
+C1204_CC,Operation pressed General Resume,Running,6759,20:55
+C1204_CC,Operation pressed Resume Robots,Running,6759,20:55
+C1204_CC,Operation pressed Resume Index Table,Running,6759,20:55
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,6759,20:55
+C1204_CC,Operation pressed Resume Load Conveyor,Running,6759,20:55
+C1204_CC,Operation pressed Resume Camera,Running,6759,20:55
+C1204_CC,Time Frame,Running,6885,21:00
+C1204_CC,Operation pressed Resume Robots,Running,6895,21:00
+C1204_CC,Operation pressed Pause,Running,6896,21:00
+C1204_CC,Operation pressed Start,Pause,6896,21:00
+C1204_CC,Operation pressed General Resume,Running,6896,21:00
+C1204_CC,Operation pressed Resume Robots,Running,6896,21:00
+C1204_CC,Operation pressed Resume Index Table,Running,6896,21:00
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,6896,21:00
+C1204_CC,Operation pressed Resume Load Conveyor,Running,6896,21:00
+C1204_CC,Operation pressed Resume Camera,Running,6896,21:00
+C1204_CC,Operation pressed Resume Robots,Running,6896,21:00
+C1204_CC,Time Frame,Running,7134,21:10
+C1204_CC,Time Frame,Running,7376,21:20
+C1204_CC,Time Frame,Running,7601,21:30
+C1204_CC,Time Frame,Running,7707,21:40
+C1204_CC,Operation pressed Pause,Running,7707,21:48
+C1204_CC,Operation pressed Start,Pause,7707,21:48
+C1204_CC,Operation pressed General Resume,Running,7707,21:48
+C1204_CC,Operation pressed Resume Robots,Running,7707,21:48
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,7707,21:48
+C1204_CC,Operation pressed Resume Load Conveyor,Running,7707,21:48
+C1204_CC,Operation pressed Resume Camera,Running,7707,21:48
+C1204_CC,Operation pressed Resume Robots,Running,7707,21:48
+C1204_CC,Time Frame,Running,7738,21:50
+C1204_CC,Operation pressed Pause,Running,7739,21:50
+C1204_CC,Operation pressed Start,Pause,7739,21:50
+C1204_CC,Operation pressed General Resume,Running,7739,21:50
+C1204_CC,Operation pressed Resume Robots,Running,7739,21:50
+C1204_CC,Operation pressed Resume Index Table,Running,7739,21:50
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,7739,21:50
+C1204_CC,Operation pressed Resume Load Conveyor,Running,7739,21:50
+C1204_CC,Operation pressed Resume Camera,Running,7739,21:50
+C1204_CC,Operation pressed Resume Robots,Running,7739,21:50
+C1204_CC,Time Frame,Running,7992,22:00
+C1204_CC,Time Frame,Running,8231,22:10
+C1204_CC,Time Frame,Running,8474,22:20
+C1204_CC,Time Frame,Running,8713,22:30
+C1204_CC,Operation pressed Pause,Running,8789,22:34
+C1204_CC,Operation pressed Start,Pause,8789,22:35
+C1204_CC,Operation pressed General Resume,Running,8789,22:35
+C1204_CC,Operation pressed Resume Robots,Running,8789,22:35
+C1204_CC,Operation pressed Resume Index Table,Running,8789,22:35
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,8789,22:35
+C1204_CC,Operation pressed Resume Load Conveyor,Running,8789,22:35
+C1204_CC,Operation pressed Resume Camera,Running,8789,22:35
+C1204_CC,Operation pressed Pause,Running,8823,22:36
+C1204_CC,Operation pressed Start,Pause,8823,22:36
+C1204_CC,Operation pressed General Resume,Running,8823,22:36
+C1204_CC,Operation pressed Resume Robots,Running,8823,22:36
+C1204_CC,Operation pressed Resume Index Table,Running,8823,22:36
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,8823,22:36
+C1204_CC,Operation pressed Resume Load Conveyor,Running,8823,22:36
+C1204_CC,Operation pressed Resume Robots,Running,8823,22:36
+C1204_CC,Operation pressed Resume Camera,Running,8823,22:36
+C1204_CC,Time Frame,Running,8917,22:40
+C1204_CC,Time Frame,Running,9163,22:50
+C1204_CC,Time Frame,Running,9400,23:00
+C1204_CC,Time Frame,Running,9594,23:10
+C1204_CC,Operation pressed Pause,Running,9594,23:10
+C1204_CC,Operation pressed Start,Pause,9594,23:11
+C1204_CC,Operation pressed General Resume,Running,9594,23:11
+C1204_CC,Operation pressed Resume Index Table,Running,9594,23:11
+C1204_CC,Operation pressed Resume Robots,Running,9594,23:11
+C1204_CC,Operation pressed Resume Unload Conveyor,Running,9594,23:11
+C1204_CC,Operation pressed Resume Load Conveyor,Running,9594,23:11
+C1204_CC,Operation pressed Resume Camera,Running,9594,23:11
+C1204_CC,Time Frame,Running,9737,23:20
+C1204_CC,Time Frame,Running,9874,23:30
+C1204_CC,Time Frame,Running,9874,23:40
+C1204_CC,Operation pressed Pause,Running,9874,23:40
+C1204_CC,Operation pressed STOP,Pause,9874,23:40
+C1204_CC,Operation pressed STOP,Stop,9874,23:48
+C1204_CC,Operation pressed ResetAll,Stop,9874,23:48
+C1204_CC,Operation pressed General Resume,Stop,9874,23:48
+C1204_CC,Operation pressed Resume Robots,Stop,9874,23:48
+C1204_CC,Operation pressed Resume Index Table,Stop,9874,23:48
+C1204_CC,Operation pressed Resume Unload Conveyor,Stop,9874,23:48
+C1204_CC,Operation pressed Resume Load Conveyor,Stop,9874,23:48
+C1204_CC,Operation pressed Resume Camera,Stop,9874,23:48
+C1204_CC,Operation pressed Resume Load Conveyor,Stop,9874,23:48
+C1204_CC,Operation pressed Resume Index Table,Stop,9874,23:48
+C1204_CC,Operation pressed Resume Unload Conveyor,Stop,9874,23:48
+C1204_CC,Time Frame,Stop,9874,23:50

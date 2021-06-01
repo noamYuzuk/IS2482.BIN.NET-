@@ -1,0 +1,15 @@
+ar_OfsetShelf[31]:=2.0
+ar_OfsetShelf[32]:=1.2
+ar_OfsetShelf[33]:=0.9F16#E66666H-6
+ar_OfsetShelf[34]:=2.3
+ar_OfsetShelf[35]:=1.4
+ar_OfsetShelf[36]:=1.8
+ar_OfsetShelf[37]:=0.0
+ar_OfsetShelf[38]:=0.0
+ar_OfsetShelf[39]:=0.0
+ar_OfsetShelf[40]:=1.3
+ar_OfsetShelf[41]:=1.0
+ar_OfsetShelf[42]:=1.5
+Global_Persistent.fStackerHightUnload:=0.5
+Global_Persistent.fStackerHightLoad:=-0.5
+prg_Stacker.fSenOfset:=18.0

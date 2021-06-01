@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrderParams xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <InsertCode>T1606_CC</InsertCode>
+  <InsertDescription>T1606_CC</InsertDescription>
+  <ProductCode>CNSG 432-TF</ProductCode>
+  <InsertSymetry>2</InsertSymetry>
+  <InsertHeight>5</InsertHeight>
+  <SensorHeight>6.7</SensorHeight>
+  <InsertHoleDiameter>3.18</InsertHoleDiameter>
+  <GripperCodeLoad>2</GripperCodeLoad>
+  <GripperCodeUnload>2</GripperCodeUnload>
+  <ServiceLoadTrayName>MFP0.txt</ServiceLoadTrayName>
+  <ServiceUnloadTrayName>MFP0.txt</ServiceUnloadTrayName>
+  <CarrierName>EC_09.txt</CarrierName>
+  <Cam1_Brightness>0.23</Cam1_Brightness>
+  <Cam2_Brightness>0.5</Cam2_Brightness>
+  <Cam3_Brightness>0.38</Cam3_Brightness>
+  <Cam1_Contrast>0.54</Cam1_Contrast>
+  <Cam2_Contrast>0.4</Cam2_Contrast>
+  <Cam3_Contrast>0.2</Cam3_Contrast>
+  <Cam1_Trashhold>0.71</Cam1_Trashhold>
+  <Cam2_Trashhold>0.72</Cam2_Trashhold>
+  <Cam3_Trashhold>0.73</Cam3_Trashhold>
+  <Cam1_Score>0.51</Cam1_Score>
+  <Cam2_Score>0.4</Cam2_Score>
+  <Cam3_Score>0.6</Cam3_Score>
+  <Cam1_Angle>180</Cam1_Angle>
+  <Cam3_Angle>180</Cam3_Angle>
+  <TrayOffset_X>19</TrayOffset_X>
+  <TrayOffset_Y>20</TrayOffset_Y>
+</OrderParams>

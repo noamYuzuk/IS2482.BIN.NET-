@@ -1,0 +1,5 @@
+Source,System Messege,Time
+MainCycle()  WorkFunc,Cannot access a disposed object.
+Object name: 'Label'.,10:03
+MainCycle()  WorkFunc,Cannot access a disposed object.
+Object name: 'Label'.,13:16

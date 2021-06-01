@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2017\community\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="15.0">
+ <Targets>
+  <Target Name="C:\Projects\SVN\trunk\ST1101_HMI.NET\bin\Debug\Stahli2Robots.exe">
+   <Modules>
+    <Module Name="stahli2robots.exe">
+     <Namespaces>
+      <Namespace Name="Stahli2Robots">
+       <Types>
+        <Type Name="FrmBeckhoff" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Dispose(System.Boolean)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="adsClient" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms" File="FrmBeckhoff.cs" Line="830">'FrmBeckhoff' contains field 'FrmBeckhoff.adsClient' that is of IDisposable type: 'TcAdsClient'. Change the Dispose method on 'FrmBeckhoff' to call Dispose or Close on this field.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmLoadCarrier" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Dispose(System.Boolean)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="PatMaxSearchRegion" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmLoadCarrier.designer.cs" Line="15">'FrmLoadCarrier' contains field 'FrmLoadCarrier.PatMaxSearchRegion' that is of IDisposable type: 'CogCircle'. Change the Dispose method on 'FrmLoadCarrier' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="axes" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmLoadCarrier.designer.cs" Line="15">'FrmLoadCarrier' contains field 'FrmLoadCarrier.axes' that is of IDisposable type: 'CogCoordinateAxes'. Change the Dispose method on 'FrmLoadCarrier' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="axesCenter" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmLoadCarrier.designer.cs" Line="15">'FrmLoadCarrier' contains field 'FrmLoadCarrier.axesCenter' that is of IDisposable type: 'CogCoordinateAxes'. Change the Dispose method on 'FrmLoadCarrier' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="cogPolygon" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmLoadCarrier.designer.cs" Line="15">'FrmLoadCarrier' contains field 'FrmLoadCarrier.cogPolygon' that is of IDisposable type: 'CogPolygon'. Change the Dispose method on 'FrmLoadCarrier' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="myFrameGrabbers" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmLoadCarrier.designer.cs" Line="15">'FrmLoadCarrier' contains field 'FrmLoadCarrier.myFrameGrabbers' that is of IDisposable type: 'CogFrameGrabbers'. Change the Dispose method on 'FrmLoadCarrier' to call Dispose or Close on this field.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmLoadTray" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Dispose(System.Boolean)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="PatMaxSearchRegion" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmUnloadPallet.designer.cs" Line="15">'FrmLoadTray' contains field 'FrmLoadTray.PatMaxSearchRegion' that is of IDisposable type: 'CogRectangle'. Change the Dispose method on 'FrmLoadTray' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="axes" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmUnloadPallet.designer.cs" Line="15">'FrmLoadTray' contains field 'FrmLoadTray.axes' that is of IDisposable type: 'CogCoordinateAxes'. Change the Dispose method on 'FrmLoadTray' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="cogPolygon" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmUnloadPallet.designer.cs" Line="15">'FrmLoadTray' contains field 'FrmLoadTray.cogPolygon' that is of IDisposable type: 'CogPolygon'. Change the Dispose method on 'FrmLoadTray' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="myFrameGrabbers" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmUnloadPallet.designer.cs" Line="15">'FrmLoadTray' contains field 'FrmLoadTray.myFrameGrabbers' that is of IDisposable type: 'CogFrameGrabbers'. Change the Dispose method on 'FrmLoadTray' to call Dispose or Close on this field.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmTitle" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Dispose(System.Boolean)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="series1" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms" File="FrmTitle.Designer.cs" Line="15">'FrmTitle' contains field 'FrmTitle.series1' that is of IDisposable type: 'Series'. Change the Dispose method on 'FrmTitle' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="stCorrHigh1" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms" File="FrmTitle.Designer.cs" Line="15">'FrmTitle' contains field 'FrmTitle.stCorrHigh1' that is of IDisposable type: 'StripLine'. Change the Dispose method on 'FrmTitle' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="stCorrHigh2" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms" File="FrmTitle.Designer.cs" Line="15">'FrmTitle' contains field 'FrmTitle.stCorrHigh2' that is of IDisposable type: 'StripLine'. Change the Dispose method on 'FrmTitle' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="stCorrLow1" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms" File="FrmTitle.Designer.cs" Line="15">'FrmTitle' contains field 'FrmTitle.stCorrLow1' that is of IDisposable type: 'StripLine'. Change the Dispose method on 'FrmTitle' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="stCorrLow2" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms" File="FrmTitle.Designer.cs" Line="15">'FrmTitle' contains field 'FrmTitle.stCorrLow2' that is of IDisposable type: 'StripLine'. Change the Dispose method on 'FrmTitle' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="stTarget" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms" File="FrmTitle.Designer.cs" Line="15">'FrmTitle' contains field 'FrmTitle.stTarget' that is of IDisposable type: 'StripLine'. Change the Dispose method on 'FrmTitle' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="stTolHigh" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms" File="FrmTitle.Designer.cs" Line="15">'FrmTitle' contains field 'FrmTitle.stTolHigh' that is of IDisposable type: 'StripLine'. Change the Dispose method on 'FrmTitle' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="stTolLow" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms" File="FrmTitle.Designer.cs" Line="15">'FrmTitle' contains field 'FrmTitle.stTolLow' that is of IDisposable type: 'StripLine'. Change the Dispose method on 'FrmTitle' to call Dispose or Close on this field.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FrmUnloadCarrier" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Dispose(System.Boolean)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message Id="PatMaxSearchRegion" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmUnloadCarrier.designer.cs" Line="15">'FrmUnloadCarrier' contains field 'FrmUnloadCarrier.PatMaxSearchRegion' that is of IDisposable type: 'CogRectangle'. Change the Dispose method on 'FrmUnloadCarrier' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="PatMaxSearchRegionCircle" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmUnloadCarrier.designer.cs" Line="15">'FrmUnloadCarrier' contains field 'FrmUnloadCarrier.PatMaxSearchRegionCircle' that is of IDisposable type: 'CogCircle'. Change the Dispose method on 'FrmUnloadCarrier' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="axes" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmUnloadCarrier.designer.cs" Line="15">'FrmUnloadCarrier' contains field 'FrmUnloadCarrier.axes' that is of IDisposable type: 'CogCoordinateAxes'. Change the Dispose method on 'FrmUnloadCarrier' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="cogPolygon" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmUnloadCarrier.designer.cs" Line="15">'FrmUnloadCarrier' contains field 'FrmUnloadCarrier.cogPolygon' that is of IDisposable type: 'CogPolygon'. Change the Dispose method on 'FrmUnloadCarrier' to call Dispose or Close on this field.</Issue>
+            </Message>
+            <Message Id="myFrameGrabbers" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Projects\SVN\trunk\ST1101_HMI.NET\Forms\VisionForms" File="FrmUnloadCarrier.designer.cs" Line="15">'FrmUnloadCarrier' contains field 'FrmUnloadCarrier.myFrameGrabbers' that is of IDisposable type: 'CogFrameGrabbers'. Change the Dispose method on 'FrmUnloadCarrier' to call Dispose or Close on this field.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="MDImain" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#EnableWindow(System.IntPtr,System.Boolean)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Because it is a P/Invoke method, 'MDImain.EnableWindow(IntPtr, bool)' should be defined in a class named NativeMethods, SafeNativeMethods, or UnsafeNativeMethods.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#FindWindow(System.String,System.String)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Because it is a P/Invoke method, 'MDImain.FindWindow(string, string)' should be defined in a class named NativeMethods, SafeNativeMethods, or UnsafeNativeMethods.</Issue>
+            </Message>
+            <Message Id="0" TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Name="ParameterImplicitAnsi" Certainty="75" Level="Error">To reduce security risk, marshal parameter 'lpClassName' as Unicode, by setting DllImport.CharSet to CharSet.Unicode, or by explicitly marshaling the parameter as UnmanagedType.LPWStr. If you need to marshal this string as ANSI or system-dependent, specify MarshalAs explicitly, and set BestFitMapping=false; for added security, also set ThrowOnUnmappableChar=true.</Issue>
+            </Message>
+            <Message Id="1" TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking">
+             <Issue Name="ParameterImplicitAnsi" Certainty="75" Level="Error">To reduce security risk, marshal parameter 'lpWindowName' as Unicode, by setting DllImport.CharSet to CharSet.Unicode, or by explicitly marshaling the parameter as UnmanagedType.LPWStr. If you need to marshal this string as ANSI or system-dependent, specify MarshalAs explicitly, and set BestFitMapping=false; for added security, also set ThrowOnUnmappableChar=true.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ShowWindow(System.IntPtr,System.Diagnostics.ProcessWindowStyle)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Because it is a P/Invoke method, 'MDImain.ShowWindow(IntPtr, ProcessWindowStyle)' should be defined in a class named NativeMethods, SafeNativeMethods, or UnsafeNativeMethods.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="RobotConnection" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2020-03-02 22:22:12Z" FixCategory="DependsOnFix">
+           <Issue Name="DependsOnFix" Certainty="95" Level="CriticalError">Implement IDisposable on 'RobotConnection' because it creates members of the following IDisposable types: 'Socket'. If 'RobotConnection' has previously shipped, adding new members that implement IDisposable to this type is considered a breaking change to existing consumers.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="Stahli2Robots.Properties">
+       <Types>
+        <Type Name="Resources" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Assembly" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="ExcludedInSource" Created="2020-03-02 22:22:12Z" FixCategory="NonBreaking" LastSeen="0001-01-01 00:00:00Z" />
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811">
+   <Name>Avoid uncalled private code</Name>
+   <Description>There is uncalled code that is not externally visible and is not a known runtime entry point. If this violation fires in error, please send a problem report to the Visual Studio Code Analysis team.</Description>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182264.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213">
+   <Name>Disposable fields should be disposed</Name>
+   <Description>If a type that implements IDisposable owns fields that also implement IDisposable, the encapsulating type's Dispose() implementation should call Dispose() on each disposable field.</Description>
+   <Resolution Name="Default">{0} contains field {1} that is of IDisposable type: {2}. Change the Dispose method on {0} to call Dispose or Close on this field.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182328.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="usagerules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060">
+   <Name>Move P/Invokes to NativeMethods class</Name>
+   <Description>This type contains members with the DllImport attribute. Members with the DllImport attribute should be contained in classes named NativeMethods, SafeNativeMethods, or UnsafeNativeMethods.</Description>
+   <Resolution Name="Default">Because it is a P/Invoke method, {0} should be defined in a class named NativeMethods, SafeNativeMethods, or UnsafeNativeMethods.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182161.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalWarning</MessageLevel>
+   <File Name="designrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="SpecifyMarshalingForPInvokeStringArguments" Category="Microsoft.Globalization" CheckId="CA2101">
+   <Name>Specify marshaling for P/Invoke string arguments</Name>
+   <Description>When marshaling strings as ANSI (or as Auto on Win9x), some characters may be changed. If best-fit mapping is on, strings that appear different in Unicode will be marshaled to identical ANSI strings, which may lead to incorrect security decisions. Turning best-fit mapping off reduces this risk, as all characters without equivalents are mapped to '?'. Also, note that CharSet.Ansi is the default setting for all string marshaling; Unicode marshaling must be specified explicitly, either as a CharSet setting of DllImport or StructLayout, or as a MarshalAs attribute with a Unicode (or system-dependent) UnmanagedType.</Description>
+   <Resolution Name="ParameterImplicitAnsi">To reduce security risk, marshal parameter {0} as Unicode, by setting DllImport.CharSet to CharSet.Unicode, or by explicitly marshaling the parameter as UnmanagedType.LPWStr. If you need to marshal this string as ANSI or system-dependent, specify MarshalAs explicitly, and set BestFitMapping=false; for added security, also set ThrowOnUnmappableChar=true.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182319.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Error</MessageLevel>
+   <File Name="globalizationrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001">
+   <Name>Types that own disposable fields should be disposable</Name>
+   <Description>Types that declare disposable members should also implement IDisposable. If the type does not own any unmanaged resources, do not implement a finalizer on it.</Description>
+   <Resolution Name="DependsOnFix">Implement IDisposable on {0} because it creates members of the following IDisposable types: {1}. If {0} has previously shipped, adding new members that implement IDisposable to this type is considered a breaking change to existing consumers.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182172.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="15.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Category</String>
+  <String Key="Certainty">Certainty</String>
+  <String Key="CollapseAll">Collapse All</String>
+  <String Key="CheckId">Check Id</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">error(s)</String>
+  <String Key="ExpandAll">Expand All</String>
+  <String Key="Help">Help</String>
+  <String Key="Line">Line</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Location not stored in Pdb]</String>
+  <String Key="Project">Project</String>
+  <String Key="Resolution">Resolution</String>
+  <String Key="Rule">Rule</String>
+  <String Key="RuleFile">Rule File</String>
+  <String Key="RuleDescription">Rule Description</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Target</String>
+  <String Key="Warning">Warning</String>
+  <String Key="Warnings">warning(s)</String>
+  <String Key="ReportTitle">Code Analysis Report</String>
+ </Localized>
+</FxCopReport>

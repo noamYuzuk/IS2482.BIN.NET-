@@ -1,0 +1,5 @@
+Source,System Messege,Time
+MainCycle()  WorkFunc2,Thread was being aborted.,22:24
+MainCycle()  WorkFunc,Thread was being aborted.,22:24
+MainCycle()  WorkFunc2,Thread was being aborted.,23:34
+MainCycle()  WorkFunc,Thread was being aborted.,23:34

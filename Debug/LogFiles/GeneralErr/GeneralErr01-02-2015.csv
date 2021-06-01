@@ -1,0 +1,15 @@
+Station,Error Messege,Source,Time
+LoadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,10:37
+UnloadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,10:37
+LoadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,11:39
+UnloadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,11:39
+LoadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,14:32
+UnloadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,14:32
+LoadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,14:32
+UnloadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,14:32
+LoadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,14:32
+UnloadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,14:32
+UnloadConv,Latch Num 24, Unload conveyor, Empty trays stacker, Level #1, Sensor Open #1: No,FrmTitle()  tmrChkError_Tick,14:47
+IndexTable,prg_Stahli.act_Oper:GripperClose. time out,FrmTitle()  tmrChkError_Tick,14:47
+LoadRobot,0     -906{-906} *Robot power off requested*,RobotConnection()  commLoadRobot_DataReceived,17:36
+UnloadRobot,0     -906{-906} *Robot power off requested*,RobotConnection()  commUnloadRobot_DataReceived,17:36

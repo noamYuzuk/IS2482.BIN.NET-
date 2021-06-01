@@ -1,0 +1,17 @@
+Station,Error Messege,Source,Time
+General,Load_Conv_Stacker_Raw_Inserts_is_Empty.,FrmTitle()  tmrChkError_Tick,16:56
+General,Unknown carrier status detected.,FrmTitle()  tmrChkError_Tick,17:27
+General,Door_Num_3_Not_Closed.,FrmTitle()  tmrChkError_Tick,20:28
+LoadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,20:45
+UnloadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,20:45
+LoadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,20:55
+UnloadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,20:55
+LoadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,20:56
+UnloadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,20:56
+LoadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,20:59
+UnloadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,20:59
+IndexTable,prg_Stahli.act_Oper:WaitForLockPinUp. time out,FrmTitle()  tmrChkError_Tick,21:07
+General,Door_Num_9_Not_Closed.,FrmTitle()  tmrChkError_Tick,22:31
+LoadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,22:31
+UnloadRobot,Robot Door Opened! Please Close and press Resume,FrmTitle()  tmrChkError_Tick,22:31
+IndexTable,prg_Stahli.act_Oper:InsertWrondDetacted. time out,FrmTitle()  tmrChkError_Tick,22:58

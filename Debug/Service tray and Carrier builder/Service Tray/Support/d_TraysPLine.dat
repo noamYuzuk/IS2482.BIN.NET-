@@ -1,0 +1,4 @@
+[Menu]
+Vision rectangle=True
+[Output files]
+Directory=c:\Project\SVN\trunk\ST1101_HMI.NET\Stahli.Net 06.04.16\bin\Debug\TrayFiles
